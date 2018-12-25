@@ -8,5 +8,8 @@
   },
   "scripts": {
     "publish": "lerna run tsc && lerna publish"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

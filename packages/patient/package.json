@@ -1,6 +1,6 @@
 {
   "name": "@hospital-sdk-jerome/patient",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Jerome Burkard <jerome.burkard@gadz.org>",
   "homepage": "",
@@ -16,5 +16,6 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
     "tsc": "tsc"
-  }
+  },
+  "gitHead": "163dbf3a02e918d003a432930976a0dafbd55aa4"
 }
